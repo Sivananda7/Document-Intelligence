@@ -1,0 +1,11 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.6.0
+python-multipart>=0.0.9
+motor>=3.3.0
+boto3>=1.34.0
+google-genai
+tenacity
+Pillow>=10.0.0
+pymupdf>=1.23.0
+python-doctr[tf]
